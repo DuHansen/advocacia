@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53cd5450.css",
+    "main.js": "/static/js/main.48952809.js",
+    "static/js/453.92547f1a.chunk.js": "/static/js/453.92547f1a.chunk.js",
+    "static/media/Rectangle.png": "/static/media/Rectangle.fdae7991e7c17b638e96.png",
+    "static/media/lawyer 1.png": "/static/media/lawyer 1.9581bcf396e31087bb8b.png",
+    "static/media/logo-whatsapp-png 1.png": "/static/media/logo-whatsapp-png 1.a769cf7ead934b900351.png",
+    "static/media/profile-image__1682643652-384x384.jpg": "/static/media/profile-image_ee03e40da1945c0fb4367ae4fe7069f2_1682643652-384x384.b6b71dd52e7de81189df.jpg",
+    "static/media/profile-image__1682641606-384x384.jpg": "/static/media/profile-image_2dba87d4de7243bda1700ab1569fc7be_1682641606-384x384.47ab0c8ed158b953dcaa.jpg",
+    "static/media/logoMG.png": "/static/media/logoMG.da3b624965f58d0541b8.png",
+    "static/media/instagram-2-1-logo-svgrepo-com.svg": "/static/media/instagram-2-1-logo-svgrepo-com.1c9a97e6abf8ca43d6d95ac759c14bbd.svg",
+    "static/media/facebook-color-svgrepo-com.svg": "/static/media/facebook-color-svgrepo-com.1d8e0397525aadb52a029adc60908a02.svg",
+    "index.html": "/index.html",
+    "main.53cd5450.css.map": "/static/css/main.53cd5450.css.map",
+    "main.48952809.js.map": "/static/js/main.48952809.js.map",
+    "453.92547f1a.chunk.js.map": "/static/js/453.92547f1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53cd5450.css",
+    "static/js/main.48952809.js"
+  ]
+}
